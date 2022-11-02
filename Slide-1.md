@@ -21,5 +21,4 @@ What s the weather like in Sydney?
 
 This and many more are Off-chain data needed by smart contracts built for a robust full purpose and not just simply for sending and receiving tokens.
 
-<div style="float: left;display: block; width: 50%"><< Table of content </div>
-<div style="float: right;display: block; width: 50%; text-align: right"> Slide 2 >></div>
+<div style="text-align: right;display: block;"> [Slide 2](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/Slide-2.md)</div>
