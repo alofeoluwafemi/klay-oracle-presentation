@@ -25,6 +25,6 @@ A KlayOracle adapter defines the job specification for getting specific off-chai
 * Oracle Address
 * Feeds (Which defines rules to manipulate off-chain data to be returned to the Oracle contract)
 
-
+![Kloc Data Feed](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/images/demo-feed.png)
 
 [Slide 3](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/Slide-3.md)
