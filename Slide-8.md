@@ -4,6 +4,6 @@
 
 Visit https://dorahacks.io/dora/1/ to vote KlayOracle.
 
-![Vote KlayOracle]()
+![Vote KlayOracle](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/images/vote-us.png)
 
 **Contributors will be whitelisted and airdropped 2.5% of the initial circulation of KlayOracle token**
