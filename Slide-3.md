@@ -27,4 +27,6 @@ A KlayOracle adapter defines the job specification for getting specific off-chai
 
 ![Kloc Data Feed](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/images/demo-feed.png)
 
-[Slide 3](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/Slide-3.md)
+Developers can easily create adapters of their own to get price feeds, random numbers, or beyond that, make HTTP requests for custom data intended to be passed to the smart contract e.g Weather Report data.
+
+[Slide 4](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/Slide-4.md)
