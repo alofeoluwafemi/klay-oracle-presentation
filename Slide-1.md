@@ -4,9 +4,9 @@ By design, the blockchain is deterministic and therefore does not have an inbuil
 
 ### Impossible 🙅🏻
 
-- For a smart contract to make a GET request to an external API to get KLAY price.
-- Run Poll request to update weather data.
-- Send a POST request to call a webhook URL with a transaction response.
+- Making a GET call to an external API from a smart contract in order to obtain the KLAY pricing
+- Send a poll request to update the weather information.
+- Send a POST request with a transaction response to a webhook URL.
 
 ### Roubustfullness
 
@@ -14,11 +14,8 @@ To build rich applications on the blockchain smart contracts need to be able to 
 
 **Such as:**
 
-What is the price of KLAY to send a user for $1000 worth of USDT deposited?
-Generate a unique random number that can’t be guessed or predetermined.
-What is the current price of one ounce of Gold for a derivative smart contract?
-What s the weather like in Sydney?
+What is the cost in KLAY to send a user for a deposit of $1000 in USDT? Create a distinct, unpredictable random number that is impossible to predict or guess. How much does an ounce of gold currently cost for a derivative smart contract? How is the climate in Sydney?
 
-This and many more are Off-chain data needed by smart contracts built for a robust full purpose and not just simply for sending and receiving tokens.
+Off-chain data like this and many others are required by smart contracts because they were designed for more than just exchanging tokens.
 
 [Slide 2](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/Slide-2.md)
