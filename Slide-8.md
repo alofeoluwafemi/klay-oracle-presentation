@@ -1,6 +1,6 @@
 ## Incentives for Supporters
 
-**Starting: November 10, 2022**
+**Starting: November 4th, 2022**
 
 Visit https://dorahacks.io/dora/1/ to vote KlayOracle.
 
