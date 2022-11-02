@@ -7,7 +7,6 @@ With KlayOracle, smart contract developers can access reliable and transparent d
 ### Components of KlayOracle   
 
 KlayOracle is written in Golang and consists of the following components:  
-
 * Adapter
 * Oracle Contract
 * Node
