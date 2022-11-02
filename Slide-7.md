@@ -1,6 +1,6 @@
 ## Funding Request
 
-We are requesting a $45,000 USD grant from the Dora GrantDAO to further assist with the early-stage development and deployment of KlayOracle.
+We are requesting a **$45,000 USD** grant from the Dora GrantDAO to further assist with the early-stage development and deployment of KlayOracle.
 
 ### Q1 2023 Milestone
 
