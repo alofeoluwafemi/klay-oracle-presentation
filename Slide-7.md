@@ -19,5 +19,7 @@ We are requesting a **$45,000 USD** grant from the Dora GrantDAO to further assi
 * Improved Oracle data exchange security to prevent man in the middle attack.
 * Design KlayOracle Tokenomics & Tokenize the Protocol, such that node runners can earn tokens.
 * SDKs for wallets & Dapps to access data feeds.
+* Host Multiple Public Nodes.
+* Get as many projects to test KlayOracle on Klaytn Testnet
 
 [Slide 8](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/Slide-8.md)
