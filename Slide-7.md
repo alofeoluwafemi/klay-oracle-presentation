@@ -13,7 +13,7 @@ We are requesting a **$45,000 USD** grant from the Dora GrantDAO to further assi
 * Adding more tutorial videos and getting the community more involved too
 
 **Major Update:**
-* Dockerization of Node, Initiator Modules & Charts for Node runners.
+* Dockerization of Node with Frontend added, Initiator Modules & Charts for Node runners.
 * Improve aggregator mechanism.
 * Add Initiator package that initiates Oracle requests based on Heartbeat or Deviation.
 * Improved Oracle data exchange security to prevent man in the middle attack.
