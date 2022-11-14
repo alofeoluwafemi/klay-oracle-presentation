@@ -1,15 +1,11 @@
-## Introducing KlayOracle  
+## Motivation 
 
-With KlayOracle, smart contract developers can access reliable and transparent data such as price data, sports data, weather data, random numbers, or other external APIs, and easily integrate them within their Klaytn dapps.
+KlayOracle was built during KlayMaker22 Hackathon
 
-![KlayOracle Architechture](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/images/kloc-architechture.png)
+* Klaytn is a growing ecosystem. Hence Limited variety of oracles on Klaytn such as Chainlink(testnet), Witnet
 
-### Components of KlayOracle   
+* Actively developed oracles take a long time to be deployed to mainnet e.g Chainlink
 
-KlayOracle is written in Golang and consists of the following components:  
-* Adapter
-* Oracle Contract
-* Node
-* Kloc Command
+* We need to lower the barrier to entry to node creation and data aggregation
 
 [Slide 3](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/Slide-3.md)

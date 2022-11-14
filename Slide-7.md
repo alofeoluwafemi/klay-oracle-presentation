@@ -1,25 +1,24 @@
-## Funding Request
+## KlayOracle Team
 
-We are requesting a **$45,000 USD** grant from the Dora GrantDAO to further assist with the early-stage development and deployment of KlayOracle.
+### Oluwafemi Alofe | [Linkedin](https://www.linkedin.com/in/oluwafemialofe/) | Blockchain Developer
 
-### Q1 2023 Milestone
+- 8 years of Software Development background.
+- 2 years Crypto Savvy.
+- Platform Owner @ MContent a Decentralized Watch2Earn Platform.
+- Solidity developer at Protofire, where he worked on the integrations team to integrate Chainlink with other EVM chains.
+- 3 years Co-founder of Corpreneur, a fintech company with 10k customers and $250k transactions processed during its operations.
+- Ex- Forbes Accelerator fellow.
+- StackShift Fellow.
+- Celo Camp Batch 5 Accelerator fellow.
 
-**Standardly:**
-* Keep improving the Codebase
-* Error reporting, System Monitoring 
-* Stress testing the Infrastructure, Penetration testing
-* Continually adding new sources of data feeds based on community feedback
-* Improve developer documentation
-* Adding more tutorial videos and getting the community more involved too
+### Paul Oladimeji | (LinkedIn)[https://www.linkedin.com/in/pauloladimeji] | Technical Documentation & Open-source Project Management
 
-**Major Update:**
-* Dockerization of Node with Frontend added, Initiator Modules & Charts for Node runners.
-* Improve aggregator mechanism.
-* Add Initiator package that initiates Oracle requests based on Heartbeat or Deviation.
-* Improved Oracle data exchange security to prevent man in the middle attack.
-* Design KlayOracle Tokenomics & Tokenize the Protocol, such that node runners can earn tokens.
-* SDKs for wallets & Dapps to access data feeds.
-* Host Multiple Public Nodes.
-* Get as many projects to test KlayOracle on Klaytn Testnet
+- Experienced Software Product Manager in Fintech, robotics/AI, edtech, and Web3.
+- Technical Writer.
+- Product Manager at Nestcoin, building simple crypto products for Africans.
+- Former PM at Popular Robotics (Chinese Robotics & AI company), and TeamApt (Nigerian second biggest payment processor).
+- Defi Talents (Frankfurt School Blockchain Center) Fellow.
+- StackShift Fellow.
+- Celo Camp Batch 5 Accelerator Fellow.
 
 [Slide 8](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/Slide-8.md)

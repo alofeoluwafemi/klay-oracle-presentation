@@ -9,3 +9,4 @@
 - [Slide 7 - Funding Request](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/Slide-7.md)
 - [Slide 8 - Incentives for Supporters](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/Slide-8.md)
 - [Slide 9 - Contact](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/Slide-9.md)
+- [Slide 10 - Contact](https://github.com/alofeoluwafemi/klay-oracle-presentation/blob/master/Slide-10.md)
